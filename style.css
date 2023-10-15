@@ -62,3 +62,12 @@ contact-button {
     border-radius: 15px;
     font-size: 12px;
 }
+.social-icons {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.social-icons a {
+    display: inline-block;
+    margin: 0 10px;
+}
