@@ -30,3 +30,7 @@ body {
 .black-text {
     color:#21ac56
 }
+h1 {
+    font-size: 24px;
+    margin: 10px 0;
+}
