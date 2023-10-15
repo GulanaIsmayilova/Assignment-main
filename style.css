@@ -2,4 +2,16 @@ body {
     font-family: 'Montserrat', sans-serif;
     background-image: url(david-marcu-78A265wPiO4-unsplash.jpg); 
     background-size: cover;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.business-card {
+    background-color: #fff;
+    border: 1px solid rgb(229, 229, 229);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    max-width: 200px;
+    text-align: center;
+    padding: 50px;
+    max-height: 600px;
 }
