@@ -97,13 +97,13 @@ p.thin-text {
     justify-content: center;
     margin-top: 20px;
 }
-
 .social-icons a {
     display: inline-block;
     margin: 0 10px;
+    text-decoration: none; 
 }
 
-.social-icons img {
-    width: 40px;
-    height: 40px;
+.social-icons i {
+    color: black;
+    font-size: 25px;
 }
