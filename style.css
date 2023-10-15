@@ -46,3 +46,11 @@ p.thin-text {
     margin: 30px 0;
     line-height:1.6;
 }
+.contact {
+    margin: 20px 0;
+}
+
+.contact p.thin-text {
+    font-size: 13px;
+    font-weight: 100;
+}
