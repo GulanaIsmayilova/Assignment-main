@@ -2,6 +2,11 @@ body {
     font-family: 'Montserrat', sans-serif;
     background-image: url(david-marcu-78A265wPiO4-unsplash.jpg); 
     background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
