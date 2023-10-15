@@ -1,6 +1,6 @@
 body {
     font-family: 'Montserrat', sans-serif;
-    background-image: url(david-marcu-78A265wPiO4-unsplash.jpg); 
+    background-image: url("vieww.jpeg"); 
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -34,7 +34,7 @@ body {
     width: 100%;
     height: 100%;
     object-position: center center;
-    object-fit: cover;
+    object-fit:cover;
     display: block;
 }
 .black-text {
